@@ -1,0 +1,17 @@
+/* CSS Document */
+
+body{background-color: #000;}
+
+#banner {
+	width:1200px;
+	height:600px;
+	position: absolute;
+	top:175px; background-color:#FFFFFF;	left: 350px; color:#000000;
+}
+.carousel-inner img {width:200px; height:600px;} 
+
+#menu { width:50px; height:50px; position:absolute; top:30px; left:30px; }
+#menu img{width:100%; height:100%;}
+
+#titulo{ width:400px; height:50px; position:absolute; top:30px; left:745px; font-size:60px; color:#FF0000; font-family:'Creepster', cursive;}
+#titulo2{ width:400px; height:50px; position:absolute; top:30px; left:750px; font-size:60px; color: #FFFFFF; font-family:'Creepster', cursive;}
